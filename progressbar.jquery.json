@@ -1,0 +1,35 @@
+{
+"name": "progressbar",
+"title": "jQuery progress bar",
+"description": "Simple jQuery Progress bar, Footprint < 1KB",
+"keywords": [
+"progress",
+"progressbar",
+"bar"
+],
+ "version": "1.0.0",
+ "author": {
+"name": "Ravishanker Kusuma",
+"url": "http://hayageek.com"
+},
+"maintainers": [
+{
+"name": "Ravishanker Kusuma",
+"email": "ravi@hayageek.com",
+"url": "http://hayageek.com"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "https://github.com/hayageek/jquery-progress-bar/blob/master/MIT-License.txt"
+}
+],
+"homepage": "https://github.com/hayageek/jquery-progress-bar",
+"docs": "https://github.com/hayageek/jquery-progress-bar",
+"download": "https://github.com/hayageek/jquery-progress-bar",
+"demo": "http://hayageek.com/examples/jquery/progress-bar/index.php",
+"dependencies": {
+"jquery": ">=1.6"
+}
+}
